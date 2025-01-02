@@ -1,0 +1,9 @@
+.vscode/launch.json
+
+.vscode/
+*.app
+*.pfx
+*.snk
+node_modules/
+bin/
+obj/
